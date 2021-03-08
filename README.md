@@ -1,7 +1,7 @@
 # sublime_black
 
-[![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/csurfer/sublime_black/master/LICENSE)
-[![Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/csurfer)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 SublimeText3 package to format python code using black formatter.
 
@@ -22,8 +22,8 @@ SublimeText3 package to format python code using black formatter.
 
 Clone the git repo into your `Packages` folder using
 
-```python
-git clone https://github.com/csurfer/sublime_black Black
+```bash
+git clone https://github.com/sotilrac/sublime_black Black
 ```
 
 and restart SublimeText3.
@@ -47,7 +47,7 @@ Submitted to Package Control on May 1st 2018. Should be available soon!
 
 ### Bug Reports and Feature Requests
 
-Please use [issue tracker](https://github.com/csurfer/sublime_black/issues) for reporting bugs or feature requests.
+Please use [issue tracker](https://github.com/sotilrac/sublime_black/issues) for reporting bugs or feature requests.
 
 ### Development
 
@@ -55,6 +55,6 @@ Pull requests are most welcome.
 
 ### Buy the developer a cup of coffee!
 
-If you found the utility helpful you can buy me a cup of coffee using
+If you found the utility helpful you can buy the original developer a cup of coffee using
 
 [![Donate](https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-pill-paypal-44px.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3BSBW7D45C4YN&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
