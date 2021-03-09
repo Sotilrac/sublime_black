@@ -6,19 +6,5 @@
     {
         "caption": "Black: Diff",
         "command": "black_diff"
-    },
-    {
-        "caption": "Preferences: Black Settings - User",
-        "command": "open_file", "args":
-        {
-            "file": "${packages}/User/black.sublime-settings"
-        }
-    },
-    {
-        "caption": "Preferences: Black Settings - Default",
-        "command": "open_file", "args":
-        {
-            "file": "${packages}/sublime_black/black.sublime-settings"
-        }
     }
 ]
